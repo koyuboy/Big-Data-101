@@ -14,5 +14,7 @@ The means of big is not only about the volume of data. Big means volume, shape-s
  - Log data
  - Real time data analysis
 
-Big data pipeline:
+  
+>Big data pipeline:
+
 ![Big data pipeline](https://github.com/koyuboy/Big-Data-101/blob/main/images/Big%20data%20pipeline.png)
